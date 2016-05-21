@@ -66,5 +66,5 @@ fastlane/test_output
 
 
 # added stuffs
-Sprites.atlas/
-Assests.xcassets/
+Sprites.atlas
+Assets.xcassets
