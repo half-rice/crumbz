@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  crumbz
-//
-//  Created by surrus on 5/20/16.
-//  Copyright © 2016 surrus llc. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

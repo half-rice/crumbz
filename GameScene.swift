@@ -1,11 +1,3 @@
-//
-//  GameScene.swift
-//  crumbz
-//
-//  Created by surrus on 5/20/16.
-//  Copyright (c) 2016 surrus llc. All rights reserved.
-//
-
 import SpriteKit
 
 class GameScene: SKScene {
